@@ -1,3 +1,3 @@
 # hello-world
 ideas,resources and discussion
-This is place where amazing happens!
+This is a place where amazing happens!
